@@ -13,3 +13,7 @@ Group 1 SRS Document (v2)
 Software Architecture Diagram (PNG)
 
 UML Class Diagram (PNG)
+
+Test Case Summary (xlsx)
+
+Test Case Summary (pdf)
