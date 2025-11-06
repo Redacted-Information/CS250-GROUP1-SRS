@@ -17,3 +17,5 @@ UML Class Diagram (PNG)
 Test Case Summary (xlsx)
 
 Test Case Summary (pdf)
+
+Updated Architecture Design (png)
